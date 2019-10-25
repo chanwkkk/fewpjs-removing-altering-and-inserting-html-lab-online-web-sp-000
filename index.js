@@ -6,7 +6,7 @@ let h1 = document.createElement('h1')
 
 h1.id = 'victory'
 
-h1.innerText = "KK is the champion"
+h1.innerText = "is the champion"
 
 document.body.appendChild(h1)
 
